@@ -1,0 +1,22 @@
+{
+      "Firstname": "Shashank",
+      "Designation": "Manager",
+      "Address": [
+        {
+          "Area": "Ambegaon",
+          "SurveyNO": "55/7",
+          "Society": "Chintamani Heights",
+          "City": "Pune"
+        },
+        {
+          "Area": "Ambegaon",
+          "SurveyNO": "55/7",
+          "Society": "Chintamani Heights",
+          "City": "Pune"
+        }
+      ],
+      "Lastname": "Chindarkar",
+      "id": "sc10"
+    }
+  ]
+}
